@@ -4,6 +4,9 @@
   "description": "this is example",
   "main": "index",
   "types": "index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "index.js",
     "index.d.ts"
@@ -26,5 +29,6 @@
   "devDependencies": {
     "tslint": "*",
     "typescript": "*"
-  }
+  },
+  "gitHead": "349177d2370703778dab36f3fb819650460aee0b"
 }
