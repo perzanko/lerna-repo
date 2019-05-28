@@ -1,6 +1,6 @@
 {
   "name": "@1uphealth/example",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "this is example",
   "main": "index",
   "types": "index.d.ts",
@@ -29,6 +29,5 @@
   "devDependencies": {
     "tslint": "*",
     "typescript": "*"
-  },
-  "gitHead": "d8716909a3f2a33e628b939de85cf4664d711e02"
+  }
 }
