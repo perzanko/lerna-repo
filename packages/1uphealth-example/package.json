@@ -1,7 +1,7 @@
 {
-  "name": "@1uphealth/example",
-  "version": "1.0.0",
-  "description": "this is example",
+  "name": "@healhtechdevelopers/api",
+  "version": "0.0.1",
+  "description": "description...",
   "main": "index",
   "types": "index.d.ts",
   "publishConfig": {
@@ -21,8 +21,7 @@
     "example"
   ],
   "authors": [
-    "Kacper Perzankowski <kacper.perzankowski@htdevelopers.com>",
-    "Michał Chrustowski <michal.chrustowski@htdevelopers.com>"
+    "Kacper Perzankowski <kacper.perzankowski@htdevelopers.com>"
   ],
   "license": "MIT",
   "homepage": "https://1up.health/",
