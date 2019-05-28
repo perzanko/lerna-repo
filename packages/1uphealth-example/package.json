@@ -1,0 +1,30 @@
+{
+  "name": "@1uphealth/example",
+  "version": "0.1.0",
+  "description": "this is example",
+  "main": "index",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "prepare": "tsc",
+    "pretest": "tsc",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "1uphealth",
+    "example"
+  ],
+  "authors": [
+    "Kacper Perzankowski <kacper.perzankowski@htdevelopers.com>",
+    "Michał Chrustowski <michal.chrustowski@htdevelopers.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://1up.health/",
+  "devDependencies": {
+    "tslint": "*",
+    "typescript": "*"
+  }
+}
